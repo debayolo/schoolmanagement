@@ -1,0 +1,1 @@
+Hello<?php /**PATH C:\xampp\htdocs\schoolmanagement (2)\resources\views\backEnd\alumniPanel\inc\_student_profile.blade.php ENDPATH**/ ?>

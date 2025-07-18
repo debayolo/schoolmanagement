@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\schoolmanagement (2)\resources\views\backEnd\feesCollection\monthly_voucher_print_report.blade.php ENDPATH**/ ?>

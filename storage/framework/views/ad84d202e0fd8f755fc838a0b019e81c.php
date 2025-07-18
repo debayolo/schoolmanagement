@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\schoolmanagement (2)\resources\views\backEnd\feesCollection\fees_collect_invoice.blade.php ENDPATH**/ ?>

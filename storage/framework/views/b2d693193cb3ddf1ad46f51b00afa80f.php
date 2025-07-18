@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\schoolmanagement (2)\resources\views\backEnd\frontSettings\theme\allTheme.blade.php ENDPATH**/ ?>
